@@ -32,18 +32,23 @@ Findings support **engagement-based interventions** over restrictive gaming bans
 | **Data Intepretation** | Intepret data base on the statistical result, statistical significan and mean different |
 | **Provide Recommendation Solution** | Evidence-based recommendations for time management workshops |
 
-## 📁 Repository Structure
+## Repository Structure
+
+```
 data/
-├── cleaned/
-│ └── survey_data_anonymized.csv # Anonymized survey responses (PII removed)
+├── gameaddiction.csv
+
 code/
-├── analysis_regression.do # STATA regression models (Models 1-4)
-└── visualization.py # Python matplotlib visualizations
+├── analysis_regression.do
+└── visualization.py
+
 results/
-├── figures/ # Publication-quality charts
-└── tables/ # Regression output tables
+├── figures/
+└── tables/
+
 report/
-└── executive_summary.pdf # 2-page summary
+└── executive_summary.pdf
+```
 
 ## 🔒 Data Privacy
 All personally identifiable information (PII) has been removed per Thai PDPA guidelines. Dataset contains only aggregated/anonymized variables used in published analysis.
