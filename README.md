@@ -33,13 +33,17 @@ Findings support **engagement-based interventions** over restrictive gaming bans
 | **Provide Recommendation Solution** | Evidence-based recommendations for time management workshops |
 
 ## 📁 Repository Structure
-├── data/cleaned/ # Anonymized survey responses (PII removed)
-├── code/ # Reproducible analysis scripts
-│ ├── analysis_regression.do # STATA regression models (Models 1-4)
-│ └── visualization.py # Python matplotlib visualizations
-├── results/figures/ # Publication-quality charts
-├── results/tables/ # Regression output tables
-└── report/executive_summary.pdf # 2-page summary for employers
+data/
+├── cleaned/
+│ └── survey_data_anonymized.csv # Anonymized survey responses (PII removed)
+code/
+├── analysis_regression.do # STATA regression models (Models 1-4)
+└── visualization.py # Python matplotlib visualizations
+results/
+├── figures/ # Publication-quality charts
+└── tables/ # Regression output tables
+report/
+└── executive_summary.pdf # 2-page summary
 
 ## 🔒 Data Privacy
 All personally identifiable information (PII) has been removed per Thai PDPA guidelines. Dataset contains only aggregated/anonymized variables used in published analysis.
