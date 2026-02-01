@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Female,LGBTQ+,0.8641,0.0069,0.1972,1.5311,True
+Female,Male,0.7105,0.0012,0.2404,1.1806,True
+LGBTQ+,Male,-0.1536,0.8586,-0.8401,0.5328,False
+Female,LGBTQ+,0.8641,0.0069,0.1972,1.5311,True
+Female,Male,0.7105,0.0012,0.2404,1.1806,True
+LGBTQ+,Male,-0.1536,0.8586,-0.8401,0.5328,False
