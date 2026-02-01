@@ -24,12 +24,13 @@ Findings support **engagement-based interventions** over restrictive gaming bans
 ## 💼 Skills Demonstrated
 | Category | Tools & Techniques |
 |----------|-------------------|
+| **Research Design** | Behavioral economics framework, opportunity cost analysis |
 | **Data Collection** | Survey design (Wu et al. 2021 scale), Google Forms, 465 respondents |
 | **Data Wrangling** | Excel cleansing, handling missing values, variable recoding |
 | **Statistical Analysis** | OLS regression, ANOVA with Tukey HSD post-hoc tests, robust standard errors |
 | **Programming** | STATA (do-files for regression/ANOVA), Python (pandas, matplotlib for visualization) |
-| **Research Design** | Behavioral economics framework, opportunity cost analysis |
-| **Policy Translation** | Evidence-based recommendations for time management workshops |
+| **Data Intepretation** | Intepret data base on the statistical result, statistical significan and mean different |
+| **Provide Recommendation Solution** | Evidence-based recommendations for time management workshops |
 
 ## 📁 Repository Structure
 ├── data/cleaned/ # Anonymized survey responses (PII removed)
